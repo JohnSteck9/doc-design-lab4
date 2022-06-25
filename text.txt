@@ -1,0 +1,10 @@
+Ой у лузі червона калина похилилася,
+Чогось наша славна Україна зажурилася.
+А ми тую червону калину підіймемо,
+А ми нашу славну Україну, гей-гей, розвеселимо!
+А ми тую червону калину підіймемо,
+А ми нашу славну Україну, гей-гей, розвеселимо!
+
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+.\bin\windows\kafka-server-start.bat .\config\server.properties
